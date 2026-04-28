@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Soy de IES</title>
+</head>
+<body>
+
+<h1>Soy de IES</h1>
+
+<img src="https://www.ies21.edu.ar/img/logos_nuevos/LOGO_IES.png" alt="Logo IES" width="300">
+
+<br><br>
+
+<a href="https://www.ies21.edu.ar/" target="_blank">
+Ir a la página de IES
+</a>
+
+</body>
+</html>
